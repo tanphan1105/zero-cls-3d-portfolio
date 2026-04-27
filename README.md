@@ -42,6 +42,11 @@ Inside the `scripts/` folder, you will find our custom Python tool. If you modif
 - Inject `dns-prefetch` and `preconnect` headers.
 - Force `fetchpriority="high"` on your Hero images.
 
+## 💖 Support Open Research
+If this boilerplate saved your Lighthouse score or helped your B2B agency close a deal, consider buying me a coffee. It fuels the late-night performance hacking!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/phantrongtan)
+
 ## 🧠 Philosophy
 > "Work Smart, Not Hard. Use First Principles."
 
